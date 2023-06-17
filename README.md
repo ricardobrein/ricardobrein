@@ -20,7 +20,7 @@ Something that really likes me it's what we could call **Data engineering** – 
 
 ### What i'm currently learning?👨‍🔬
 
-1. As I mentioned before, the fastest way for me to learn as a self-taught individual is by switching between various topics throughout the week. However, lately, I have been focused on have a deep understanding how the cloud works and secure data, is simply mind-blowing. In particular, I have been exploring Azure and AWS.
+1. As I mentioned before, the fastest way for me to learn as a self-taught individual is by switching between various topics throughout the week. However, lately, I have been focused on have a deep understanding how the cloud works and secure data, is simply mind-blowing. In particular, I have been exploring Azure and AWS(S3, Redshift, Athena).
 2. Statistics and Mathematics
 3. Building and manipulating generative neural networks to create images, music, text, and video.
 4. Constantly reading about comprehend the entire lifecycle of data, from its origin to visualizing and converting it into valuable information.
