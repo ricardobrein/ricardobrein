@@ -10,10 +10,11 @@ Something that really likes me it's what we could call **Data engineering** – 
 
 **Additionally:**
 
-- I have a routine of daily practice a little of Python, GIT, SQL and Linux and from time to time i like to explore lenguages like Dart, Java or Go.
+- I have a routine for daily practice of a little of Python, GIT, SQL and Linux and from time to time i like to explore lenguages like Dart, Java or Go.
 - I'm everyday experimenting with machine learning models and neural nets for real use cases.
 - I find it so fun to test big data software and distributed computing tools. The ecosystem is vast, but as a student, I focus on the most robust and widely use tools. - I'm constantly playing with Spark, MongoDB, Elasticsearch or kafka
-- I can effectivelly manipulate SQL databases and i like to make Power BI dashboards too.
+- I can effectively work with PostreSQL databases, including some variants such as DuckDB and others like Pandas and Polars. Additionally, I don't have fear of create Power BI dashboards to visualize data and extract insightful analytics.
+- I find great joy in sharing what i learn with others, so constantly i working on improving my communication skills to effectively convey what I learn in a practical and understandable way.
 
 🌱 **I'm actively seeking my first job opportunity** in the field of Data, and I'm open to exploring various entry-level positions. To the company that gives me the chance, i bring my knowledge, enthusiasm, and a strong desire to solve problems efficiently and effectively.
 
@@ -27,6 +28,7 @@ Something that really likes me it's what we could call **Data engineering** – 
 ### Currently reading 📚
 - Deep learning with python - [François Chollet](https://fchollet.com/)
 - MLOps engineering at scale - [Carl Osipov](https://github.com/osipov)
+- SQL for data Analysis - [Cathy Tanimura](https://www.linkedin.com/in/cathytanimura/)
 
 The best part is that is with **A LOT** of free invaluable information and some books I can experience all these advancements in the 21st century, with just a keyboard and a screen, **thanks to the true geniuses of mathematics, computer scientist, statistics, software developers, and hardware engineers.** I am merely an enthusiast who uses the tools created by these remarkable individuals, and there aren't enough words to express my gratitude. I aspire to be like them!
 
@@ -34,7 +36,7 @@ I like to believe that I am part of something that will change the the world, fo
 
 #
 
-🤔 I'm looking for help with... I am very open to having a mentor, as my learning has been self-taught (through courses, books, hands-on experience). My learning style is fast-paced, and attending university is not a possibility for me. Any advice is greatly appreciated. You can reach me at: ricardobreindembache@gmail.com
+🤔 I'm looking for help with... I am very open to having a mentor, as my learning has been self-taught (through courses, books, hands-on experience). My learning style is fast-paced, and attending university is not a possibility. Any advice is greatly appreciated. You can reach me at: ricardobreindembache@gmail.com
 
 💬 I enjoy discussing various topics related to data, as well as the latest trends in AI, computer vision, natural language processing (NLP), philosophy, economics, geopolitics, psychology, and sociology.
 
