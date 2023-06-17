@@ -10,7 +10,7 @@ Something that really likes me it's what we could call **Data engineering** – 
 
 **Additionally:**
 
-- I have a routine of daily practice a little of Python, GIT, SQL and Linux and from time to time i like to dive in lenguages like Dart, Java or Go.
+- I have a routine of daily practice a little of Python, GIT, SQL and Linux and from time to time i like to explore lenguages like Dart, Java or Go.
 - I'm everyday experimenting with machine learning models and neural nets for real use cases.
 - I find it so fun to test big data software and distributed computing tools. The ecosystem is vast, but as a student, I focus on the most robust and widely use tools. - I'm constantly playing with Spark, MongoDB, Elasticsearch or kafka
 - I can effectivelly manipulate SQL databases and i like to make Power BI dashboards too.
