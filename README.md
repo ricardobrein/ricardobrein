@@ -30,17 +30,17 @@ Something that really likes me it's what we could call **Data engineering** – 
 - MLOps engineering at scale - [Carl Osipov](https://github.com/osipov)
 - SQL for data Analysis - [Cathy Tanimura](https://www.linkedin.com/in/cathytanimura/)
 
-The best part is that is with **A LOT** of free invaluable information and some books I can experience all these advancements in the 21st century, with just a keyboard and a screen, **thanks to the true geniuses of mathematics, computer scientist, statistics, software developers, and hardware engineers.** I am merely an enthusiast who uses the tools created by these remarkable individuals, and there aren't enough words to express my gratitude. I aspire to be like them!
+The best part is that we have it **A LOT** of free invaluable information, courses and books that offers the greatest value for its cost. And we can experience all these advancements in the 21st century, with just a keyboard and a screen, **thanks to the true geniuses of mathematics, computer scientist, statistics, software developers, hardware engineers, Artists.** I am merely an enthusiast who uses the tools created by these remarkable individuals, and there aren't enough words to express my gratitude. I aspire to be like them!
 
-I like to believe that I am part of something that will change the the world, for the better.
+I like to believe that I am part of something that already change the the world, for the better.
 
-#
+## A little more about me.
 
 🤔 I'm looking for help with... I am very open to having a mentor, as my learning has been self-taught (through courses, books, hands-on experience). My learning style is fast-paced, and attending university is not a possibility. Any advice is greatly appreciated. You can reach me at: ricardobreindembache@gmail.com
 
 💬 I enjoy discussing various topics related to data, as well as the latest trends in AI, computer vision, natural language processing (NLP), philosophy, economics, geopolitics, psychology, and sociology.
 
-🔭 I'm also up for working on exciting data projects where I can contribute and make a difference, as long as my current commitments and schedule allow it. And yes, it goes without saying, it's all for free!
+🔭 I'm also up for working with others and share ideas of some exciting data projects, where I can contribute and make a difference, (as long as my current commitments and schedule allow it) I'm in. And yes, it goes without saying, obviously free!
 
 Thanks for visit my profile.👨‍💻
 <!--
