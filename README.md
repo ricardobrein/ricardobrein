@@ -14,7 +14,7 @@ Something that really likes me it's what we could call **Data engineering** – 
 
 - I have a routine for daily practice of a little of Python, GIT, SQL and Linux and from time to time i like to explore lenguages like Dart, Java or Go.
 - I'm everyday experimenting with machine learning models and neural nets for real use cases.
-- I find it so fun to test big data software and distributed computing tools. The ecosystem is vast, but as a student, I focus on the most robust and widely use tools. - I'm constantly playing with Spark, MongoDB, Elasticsearch or kafka
+- I find it so fun to test big data software and distributed computing tools. The ecosystem is vast, but as a student, I focus on the most robust and widely use tools. - I'm constantly playing with Spark, MongoDB, ElasticStack or kafka
 - I can effectively work with PostreSQL databases, including some variants such as DuckDB and others like Pandas and Polars. Additionally, I don't have fear of create Power BI dashboards to visualize data and extract insightful analytics.
 - I find great joy in sharing what i learn with others, so constantly i working on improving my communication skills to effectively convey what I learn in a practical and understandable way.
 
@@ -37,6 +37,8 @@ The best part is that we have it **A LOT** of free invaluable information, cours
 I like to believe that I am part of something that already change the the world, for the better.
 
 ## A little more about me.
+
+👨‍🍳I like cooking, made music on FL studio and learn random facts.
 
 🤔 I'm looking for help with... I am very open to having a mentor, as my learning has been self-taught (through courses, books, hands-on experience). My learning style is fast-paced, and attending university is not a possibility. Any advice is greatly appreciated. You can reach me at: ricardobreindembache@gmail.com
 
