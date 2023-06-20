@@ -6,7 +6,7 @@ I've always felt a bit strange because I have a passion for many areas of knowle
 
 **While it is often suggested to find one's passion in a specific area**, i found that it didn't fully satisfy me. Until I start to know about the world of **artificial intelligence and everything that involves the world of data**
 
-When i started to learn Everything clicked in my head, **My world of art and science had merged**, allowing me to explore different fields of knowledge and discover something new every day.
+When i started to learn Everything clicked in my head, **art and science had merged**, allowing me to explore different fields of knowledge and discover something new every day.
 
 I've learned through self-study, also various professional certifications endorsed by the SEPE (Spain Public Employment Service) such as Python programming, Artificial intelligence applied to business, Big Data architecture, Agile project management, Scrum, and Data analytics... **So my focus until now has been on building a solid foundation in programming with Python, Git, SQL, ML models, such as clustering, logistic regression, decision trees, collaborative filtering, and various neural network architectures including feed-forward, recurrent and transformer with Tensorflow & Pytorch, deploying models (MLOps) and business intelligence too.**
 
