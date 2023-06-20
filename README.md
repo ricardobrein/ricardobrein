@@ -1,4 +1,6 @@
-### Hi there, I'm Ricardo. 👋 
+### Hi there, I'm Ricardo. 👋
+- [email 📨](ricardobreindembache@gmail.com)
+- [Twitter 🐦](twitter.com/ricardobrein)
 
 I've always felt a bit strange because I have a passion for many areas of knowledge. I love programming, music, philosophy, architecture, statistics, economics, software, microelectronics, painting... Yes, a little bit of everything, but without specializing in any particular one. 
 
@@ -45,9 +47,9 @@ I like to believe that I am part of something that already change the the world,
 You can reach me at my [email](ricardobreindembache@gmail.com) if you want to:
 
 
-💬 I enjoy discussing various topics related to the the latest trends on AI and its implications in philosophy, economics, geopolitics, psychology, and sociology.
+💬 Discussing various topics related to the the latest trends on AI and its implications in philosophy, economics, geopolitics, psychology, and sociology.
 
-🔭 I'm also up for working with others and share ideas of some exciting data projects, where I can contribute and make a difference, (as long as my current commitments and schedule allow it) I'm in. And yes, it goes without saying, obviously free!
+🔭 Working and share ideas of some exciting projects, where I can contribute and make a difference, (as long as my current commitments and schedule allow it) I'm in. And yes, it goes without saying, obviously free!
 
 🤔 I'm looking for help with... I am very open to having a mentor, as my learning has been self-taught (through courses, books, hands-on experience). My learning style is fast-paced, and attending university is not a possibility. Any advice is greatly appreciated.
 
