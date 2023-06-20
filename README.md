@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricardo. 👋
 - [email 📨](ricardobreindembache@gmail.com)
-- [Twitter 🐦](twitter.com/ricardobrein)
+- [Twitter 🐦](https://twitter.com/ricardobrein)
 
 I've always felt a bit strange because I have a passion for many areas of knowledge. I love programming, music, philosophy, architecture, statistics, economics, software, microelectronics, painting... Yes, a little bit of everything, but without specializing in any particular one. 
 
