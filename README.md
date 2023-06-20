@@ -10,15 +10,15 @@ When i started to learn Everything clicked in my head, **My world of art and sci
 
 I've learned through self-study, also various professional certifications provided by the SEPE (Spain Public Employment Service), such as Python programming and artificial intelligence applied to business, Big Data architecture, Agile project management, Scrum, and Data analytics... **So my focus until now has been on building a solid foundation in programming with Python, Git, SQL, ML models, such as clustering, logistic regression, decision trees, collaborative filtering, and various neural network architectures including feed-forward, recurrent and transformer with Tensorflow & Pytorch, deploying models (MLOps) and business intelligence too.**
 
-Still, I don't have enough time to learn everything I would like to...literally, my hobby is studying something about computer / data science😅, so defining my goal, it's Something like a [Full-stack Data scientist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) is to work with data companies with real projects and solve real-world problems. 
+Still, I don't have enough time to learn everything I would like to...literally, my hobby is studying something about computer / data science😅, so **defining my goal**, it's Something like a [Full-stack Data Scientist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) is to **work with data companies with real projects and solve real-world problems from end-to-end.**
 
-Something that really likes me it's what we could call **Data Engineering** – the process of extracting data from a source and pipeline it to its intended destination -  and **MLOps** - it envolves train, test and deploy machine / deep learning models so that they can be utilized by anyone.
+Lately, something that really likes me it's what we could call **Data Engineering** – the process of extracting data from a source and pipeline it to its intended destination -  and **MLOps** - it envolves train, test and deploy machine / deep learning models so that they can be utilized by anyone.
 
 **Additionally:**
 
-- I have a routine for daily practice of a little of Python, GIT, SQL and Linux and from time to time i like to explore lenguages like Dart, Java or Go.
+- I have a routine for daily practice of a little of Python, GIT, SQL and Linux and from time to time i like to explore others like Dart, Go, Docker & Kubernetes.
 - I'm everyday experimenting with machine learning models and neural nets for real use cases.
-- I find it so fun to test big data software and distributed computing tools. The ecosystem is vast, but as a student, I focus on the most robust and widely use tools. - I'm constantly playing with Spark, MongoDB, ElasticStack or kafka
+- I find it so fun to test big data software and distributed computing tools. The ecosystem is vast, but as a student, I focus on the most robust and widely use tools. - I'm constantly playing with PySpark, ElasticStack or kafka
 - I can effectively work with PostreSQL databases, including some variants such as DuckDB and others like Pandas and Polars. Additionally, I don't have fear of create Power BI dashboards to visualize data and extract insightful analytics.
 - I find great joy in sharing what i learn with others, so constantly i working on improving my communication skills to effectively convey what I learn in a practical and understandable way.
 
