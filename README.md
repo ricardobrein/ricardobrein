@@ -21,9 +21,7 @@ Lately, something that really likes me it's what we could call **Data Engineerin
 - I find it so fun to test big data software and distributed computing tools. The ecosystem is vast, but as a student, I focus on the most robust and widely use tools. - I'm constantly playing with PySpark, ElasticStack or kafka
 - I can effectively work with PostreSQL databases, including some variants such as DuckDB and others like Pandas and Polars. Additionally, I don't have fear of create Power BI dashboards to visualize data and extract insightful analytics.
 - I find great joy in sharing what i learn with others, so constantly i working on improving my communication skills to effectively convey what I learn in a practical and understandable way.
-
-🌱 **I'm actively seeking my first job opportunity** in the field of Data, and I'm open to exploring various entry-level positions. To the company that gives me the chance, i bring my knowledge, enthusiasm, and a strong desire to solve problems efficiently and effectively.
-
+- 
 ### What i'm currently learning?👨‍🔬
 
 1. As I mentioned before, the best way for me to learn as a self-taught individual is by switching between various topics throughout the week. However, lately, I have been focused on have a deep understanding how the cloud works and secure data, is simply mind-blowing. In particular, I have been exploring Azure and AWS(S3, Redshift, Athena).
