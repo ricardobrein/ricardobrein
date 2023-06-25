@@ -5,7 +5,7 @@
 
 I like many topics. Like Programming, music, philosophy, architecture, statistics, economics, software, microelectronics, painting... **While it is often suggested to find one's passion in a specific area**. When i started to learn about AI, I truly knew what I wanted to dedicate myself to.
 
-**AI,** allows me to explore different fields of knowledge and discover something new every day, thats why i decided to learn in a self-taught way. So, although I don't like titles and labels, I have to define my goal. The way I would like to participate in this is something like a [FullStack Data Scientist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
+**AI** allows me to explore different fields of knowledge and discover something new every day, thats why i decided to learn in a self-taught way. So, although I don't like titles and labels, I have to define my goal. The way I would like to participate in this is something like a [FullStack Data Scientist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 
 But I couldn't really consider myself a scientist. I am just an enthusiast who utilizes and with the tools created by these remarkable individuals, there aren't enough words to express my gratitude. I aspire to be like them!
 
