@@ -24,5 +24,5 @@ I like to believe that I am part of something that has already changed the world
 
 👨‍🍳I like cooking, made music on FL studio and learn random facts.
 
-You can reach me at my [email](ricardobreindembache@gmail.com)
+You can reach me at my [email](https://ricardobreindembache@gmail.com)
 And [Medium](https://medium.com/@ricardobrein)
