@@ -11,7 +11,7 @@ I've learned through self-study and various professional certifications such as 
 
 In all this path, something that really appeals to me is what we could call Data Engineering / MLOps – it involves the process of extracting data from a source, training, testing, and deploying machine/deep learning models to its intended destination, so they can be utilized by anyone.
 
-I like to believe that I am part of something that has already changed the world for the better.
+**I like to believe that I am part of something that has already changed the world for the better.**
 ### Currently reading 📚
 - Deep learning with python - [François Chollet](https://fchollet.com/)
 - MLOps engineering at scale - [Carl Osipov](https://github.com/osipov)
