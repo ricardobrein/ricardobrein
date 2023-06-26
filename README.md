@@ -23,6 +23,7 @@ In all this path, something that really appeals to me is what we could call Data
 
 💬 Also discussing various topics related to the the latest trends on AI and its implications in philosophy, economics, geopolitics, psychology, and sociology.
 
-You can reach me at my [email📧](https://ricardobreindembache@gmail.com)
+You can reach me at:
+- [email📧](https://ricardobreindembache@gmail.com)
 - [Medium ◼️](https://medium.com/@ricardobrein)
 - [Twitter 🐦](https://twitter.com/ricardobrein)
