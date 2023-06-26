@@ -1,7 +1,5 @@
 ### Hi there, I'm Ricardo. 👋
 #### I'm following a self-taught path to learn and build amazing things with AI.
-- [email 📨](ricardobreindembache@gmail.com)
-- [Twitter 🐦](https://twitter.com/ricardobrein)
 
 I like many topics. Like Programming, music, philosophy, architecture, statistics, economics, software, microelectronics, painting... **While it is often suggested to find one's passion in a specific area**. When i started to learn about AI, I truly knew what I wanted to dedicate myself to.
 
@@ -23,5 +21,8 @@ I like to believe that I am part of something that has already changed the world
 
 👨‍🍳I like cooking, made music on FL studio and learn random facts.
 
-You can reach me at my [email](https://ricardobreindembache@gmail.com)
-And [Medium](https://medium.com/@ricardobrein)
+💬 Also discussing various topics related to the the latest trends on AI and its implications in philosophy, economics, geopolitics, psychology, and sociology.
+
+You can reach me at my [email📧](https://ricardobreindembache@gmail.com)
+- [Medium ◼️](https://medium.com/@ricardobrein)
+- [Twitter 🐦](https://twitter.com/ricardobrein)
