@@ -14,9 +14,6 @@ What really appeals to me, is to be involved in the entire data lifecycle, inclu
 **I like to believe that I am part of something that has already changed the world for the better.**
 ### Currently reading 📚
 
-- MLOps engineering at scale - [Carl Osipov](https://github.com/osipov)
-- SQL for data Analysis - [Cathy Tanimura](https://www.linkedin.com/in/cathytanimura/)
-
 ## more about me.
 
 💬 I like discussing various topics related to the the latest trends on AI and its implications in philosophy, economics, geopolitics, psychology, and sociology.
@@ -24,5 +21,7 @@ What really appeals to me, is to be involved in the entire data lifecycle, inclu
 You can reach me at:
 - [email📧](https://ricardobreindembache@gmail.com)
 - [Medium ◼️](https://medium.com/@ricardobrein)
+- [read me in Hashnode](ricardobrein.hashnode.dev)
 - [Twitter 🐦](https://twitter.com/ricardobrein)
 - [LinkedIn](https://www.linkedin.com/in/ricardo-breindembache/)
+- 
