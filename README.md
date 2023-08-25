@@ -1,13 +1,11 @@
 ### Hi there, I'm Ricardo. 👋
-#### I'm following a self-taught path to build things with AI.
+#### I'm following a self-taught path to learn & build things with AI.
 
-I like many topics. Like Programming, music, philosophy, architecture, statistics, economics, software, microelectronics, painting... **While it is often suggested to find one's passion in a specific area**. When i started to learn about AI, I truly knew what I wanted to dedicate myself to. Allowing me to explore different fields of knowledge and discover something new every day, thats why i decided to learn in a self-taught way. So, i would like to understand all the procces of the data, something like a [FullStack Data Scientist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
+When i started to learn about AI and Machine Learning I truly knew what I wanted to dedicate myself to. Allowing me to explore different fields of knowledge and discover something new every day, thats why i decided to learn in a self-taught way. So, i would like to understand all the procces of the data, something like a [FullStack Data Scientist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 
-At this point, i couldn't really consider myself a scientist. I am just an enthusiast who manipulate and try to get the most of the tools created by remarkable individuals, at some point, I aspire to be like them!
+At this point, i couldn't really consider myself a scientist. I am just an enthusiast who manipulate and try to get the most of the tools created by remarkable individuals, I aspire to be like them!
 
-I've learned through self-study and various professional certifications funded by EU, such as Python programming, Data analytics, Statistics, Artificial Intelligence applied to Business, Big Data Architecture, Agile, Scrum, MLOps and business intelligence.
-
-> _"We are drowning in information and starving for knowledge"_. — John Naisbitt.
+I've learned through self-study and various professional certifications, such as Python programming, Data analytics, Statistics, Artificial Intelligence applied to Business, Big Data Architecture, Agile, Scrum, MLOps and business intelligence.
 
 What really appeals to me, is to be involved in the entire data lifecycle, including processes like ETL, training, testing, and deploying models. I find it fascinating because it allows me to be involved in various aspects, from gathering data to extract knowledge from them and developing models that can be utilized by anyone.
 
