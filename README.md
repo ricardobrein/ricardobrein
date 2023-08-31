@@ -13,7 +13,7 @@ What really appeals to me, is to be involved in the entire *data lifecycle*, inc
 **I like to believe that I am part of something that has already changed the world for the better.**
 
 ### Currently reading & learning📚
-- More about web scraping
+- More about scraping data from web
 - Dockerization
 - Mlops at scale
 
