@@ -17,7 +17,7 @@ What really appeals to me, is to be involved in the entire data lifecycle, inclu
 - Dockerization
 - Mlops at scale
 
-## [more about me](https://ricardobrein.github.io/about)
+## [More about me](https://ricardobrein.github.io/about)
 
 💬 I like discussing various topics related to the the latest trends on AI and its implications in philosophy, economics, geopolitics, psychology, and sociology.
 
