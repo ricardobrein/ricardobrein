@@ -1,7 +1,7 @@
 ### Hi there, I'm Ricardo. 👋
 #
 <center> #### I'm following a self-taught path to learn & build things related with AI, Data enineering & MLOps. </center>
-
+#
 When i started to learn about AI and Machine Learning I truly knew what I wanted to dedicate myself to. Allowing me to explore different fields of knowledge and discover something new every day, thats why i decided to learn in a self-taught way. So, i would like to understand all the procces of the data, something like a [FullStack Data Scientist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 
 I'm just an enthusiast who manipulate and try to get the most of the tools created by remarkable individuals, I aspire to be like them!
