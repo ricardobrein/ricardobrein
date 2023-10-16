@@ -6,20 +6,22 @@ When i started to learn about AI and Machine Learning I truly knew what I wanted
 
 I'm just an enthusiast who manipulate and try to get the most of the tools created by remarkable individuals, **I aspire to be like them!**
 
-I've learned through self-study and various professional certifications, such as Python programming, Data analytics, Statistics, Artificial Intelligence applied to Business, Big Data Architecture, Agile, Scrum, MLOps and business intelligence.
+Untill now, I never stop learning through self-study (books, online corses, Yt) and various professional certifications. Where I'm learn Python for data science, Data analytics, Statistics, Artificial Intelligence applied to Business, Big Data Architecture, MLOps, LLMs, and business intelligence.
 
-What really appeals to me, is to be involved in the entire *data lifecycle*, including processes like ETL, training, testing, and deploying models. I find it fascinating because it allows me to be involved in various aspects, from gathering data to extract knowledge from them and developing models that can be utilized by anyone.
+What really appeals to me, is to be involved in the entire *data lifecycle*, including processes like ETL, training, testing, and deploying models. I find it fascinating because it allows me to be involved in various aspects, from gathering data to extract knowledge from them and developing models that can be utilized with a purpose
 
-**I like to believe that I am part of something that has already changed the world for the better.**
+**I like to believe that I am part of something that has changing the world for better.**
 
-### Currently reading & learning📚
-- More about scraping data from web
-- Dockerization
+### Currently loving, reading & learning📚
+- More about pipelines to train and serve models with data in streaming from web services 
+- Docker containers
 - Mlops at scale
 
 ## [More about me](https://ricardobrein.github.io/about)
 
 💬 I like discussing various topics related to the the latest trends on AI and its implications in philosophy, economics, geopolitics, psychology, and sociology.
+
+⚠️ I'm not a frequently user of social media 
 
 You can reach me at:
 - [email📧](https://ricardobreindembache@gmail.com)
