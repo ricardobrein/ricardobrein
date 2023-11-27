@@ -24,7 +24,7 @@ What really appeals to me, is to be involved in the entire *data lifecycle*, inc
 ⚠️ I'm not a frequently user of social media 
 
 You can reach me at:
-- [email📧](https://mailto:ricardobreindembache@gmail.com)
+- [email📧](mailto:ricardobreindembache@gmail.com)
 - [Medium ◼️](https://medium.com/@ricardobrein)
 - [read me in Hashnode](https://ricardobrein.hashnode.dev)
 - [Twitter 🐦](https://twitter.com/ricardobrein)
