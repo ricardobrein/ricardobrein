@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricardo. 👋
 #
-#### I'm following a self-taught path to build things in mobile development with Flutter and everything related to AI.
+#### I'm following a self-taught path to build things in mobile development with Flutter and everything related to Data Engineering.
 #
 When i started to learn programming I truly knew what I wanted to dedicate myself to. Allowing me to explore different fields of knowledge and discover something new every day, thats why i decided to learn in a self-taught way. So, i would like to understand all the procces of how the modern software and applications are created.
 
